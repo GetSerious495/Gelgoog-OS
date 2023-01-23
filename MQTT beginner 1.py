@@ -1,5 +1,7 @@
 import paho.mqtt.client as mqtt
 
+#(Copy)
+
 host  = 'test.mosquitto.org'
 port = 1883
 group = 'calculus2'

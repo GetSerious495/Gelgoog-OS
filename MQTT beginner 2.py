@@ -1,6 +1,7 @@
 import paho.mqtt.client as mqtt
 import json
 
+#(Copy)
 #-------------------------------------------------------------------------#
 
 host  = 'test.mosquitto.org'
