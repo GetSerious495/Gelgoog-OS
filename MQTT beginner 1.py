@@ -9,6 +9,7 @@ yourname = 'kotchaporn'
 topic = group + '/' + yourname
 username = ''
 password = ''
+var = 'update-version-1 (Publish)'
 
 client = mqtt.Client()
 client.username_pw_set(username, password)

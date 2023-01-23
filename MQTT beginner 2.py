@@ -11,6 +11,7 @@ yourname = 'Kotchaporn'
 topic = group + '/' + yourname
 username = ''
 password = ''
+var = 'update-version-1 (Subscribe)'
 
 #--------------------------------------------------------------------------#
 
